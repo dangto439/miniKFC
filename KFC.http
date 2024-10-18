@@ -1,0 +1,6 @@
+@KFC_HostAddress = http://localhost:5194
+
+GET {{KFC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
