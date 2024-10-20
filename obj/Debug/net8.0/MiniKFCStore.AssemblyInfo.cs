@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniKFCStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+944cde14f08c37c0deb644ffa5e603d91e9d8d67")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniKFCStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniKFCStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\MiniKFCStore.csproj": {}
+    "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\MiniKFCStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\MiniKFCStore.csproj": {
+    "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\MiniKFCStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\MiniKFCStore.csproj",
+        "projectUniqueName": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\MiniKFCStore.csproj",
         "projectName": "MiniKFCStore",
-        "projectPath": "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\MiniKFCStore.csproj",
+        "projectPath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\MiniKFCStore.csproj",
         "packagesPath": "C:\\Users\\DANG TO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\obj\\",
+        "outputPath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

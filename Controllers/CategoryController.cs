@@ -2,9 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MiniKFCStore.Models;
 using MiniKFCStore.Services.Interface;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+
 
 namespace MiniKFCStore.Controllers
 {
@@ -20,6 +18,7 @@ namespace MiniKFCStore.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<IEnumerable<Category>>> GetAllCategories()
         {
             var categories = await _categoryService.GetAllCategoriesAsync();

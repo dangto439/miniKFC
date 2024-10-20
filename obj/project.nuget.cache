@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XaDtqFNrK06/1wdlHtpN9KRvbbPTFSJg4F2YJBVB2FTdGyYpEN9pgEEMiEZQxM2zS1uRvpWXqixIK7NWp9NhrQ==",
+  "dgSpecHash": "f2s7cgMOhhAUD63GUspnEW3UeKJz9hbFa+n+detWl+YG1/ydgCvACJ1Pih836Nv7JR4/g8OGNveznxMcBPgoIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANG TO\\Desktop\\demo\\KFC\\KFC\\MiniKFCStore.csproj",
+  "projectFilePath": "C:\\Users\\DANG TO\\Documents\\WorkSpace\\DuAnBE\\miniKFC\\MiniKFCStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DANG TO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
